@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<pytrainer-extension 
+	name="Pytrainer Dailymile extension" 
+	status="1" 
+	description="Publish your record as post in your weblog"
+	extensionbutton="Post to Dailymile" 
+	extensioncode="DailymileExtension"
+	type="record" 
+	helpfile="README.txt"
+	executable="dailymile"
+>
+</pytrainer-extension>
